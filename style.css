@@ -1,0 +1,7 @@
+::selection{
+    background-color: black;
+}
+.para::first-letter;
+{
+    color : green;
+}
